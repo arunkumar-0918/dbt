@@ -1,0 +1,7 @@
+snapshots:
+  - name: scd_raw_listings
+    relation: ref('src_listings')
+    config:
+      unique_key: LISTING_ID
+      strategy: timestamp
+      updated_at: updated_at
