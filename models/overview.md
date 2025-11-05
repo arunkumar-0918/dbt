@@ -8,5 +8,5 @@ This project includes:
 - Transformations in Snowflake
 - Dimensional modeling with dbt
 - Data quality testing and lineage tracking
-
+- demo
 {% enddocs %}
